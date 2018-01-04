@@ -1,3 +1,3 @@
 # Grab-Squares
 -Terminal-based game.
--with multi-dimensional lists
+<br/>-with multi-dimensional lists.<br/>
